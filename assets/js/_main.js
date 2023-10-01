@@ -231,7 +231,7 @@ $(document).ready(function() {
     "dumping-eshop-dsiware": "28",
     "installing-boot9strap-(fredtool-inject)": "29",
     "installing-boot9strap-(kartminer7)": "30",
-    "installing-boot9strap-(petit-compwner)": "31"
+    "installing-boot9strap-(petit-compwner)": "31",
     "installing-boot9strap-(smilehax-iie-jpn)": "32"
   };
 
