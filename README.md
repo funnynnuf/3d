@@ -1,6 +1,6 @@
-# 3ds.hacks.guide
+ # 3ds.hacks.guide
 
-A complete guide to 3DS (and 2DS) custom firmware, from stock to boot9strap.
+A  mirror of a complete guide to 3DS (and 2DS) custom firmware, from stock to boot9strap.
 
 [https://funnynnuf.github.io/3d/](https://funnynnuf.github.io/3d/)
 
