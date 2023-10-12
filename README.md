@@ -2,7 +2,7 @@
 
 A complete guide to 3DS (and 2DS) custom firmware, from stock to boot9strap.
 
-https://3ds.hacks.guide/
+[https://funnynnuf.github.io/3d/](https://funnynnuf.github.io/3d/)
 
 ## Running the site locally
 
