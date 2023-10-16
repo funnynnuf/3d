@@ -1,8 +1,8 @@
- # [https://funnynnuf.github.io/3ds/](https://funnynnuf.github.io/3ds/)
+ # https://mirrormirrorontheweb.github.io/3ds/
 
 A  mirror of a complete guide to 3DS (and 2DS) custom firmware, from stock to boot9strap.
 
-[https://funnynnuf.github.io/3ds/](https://funnynnuf.github.io/3ds/)
+https://mirrormirrorontheweb.github.io/3ds/
 
 ## Running the site locally
 
