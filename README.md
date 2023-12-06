@@ -1,8 +1,5 @@
-# 3ds.hacks.guide
-
-A complete guide to 3DS (and 2DS) custom firmware, from stock to boot9strap.
-
-https://3ds.hacks.guide/
+# This is a version of the site from before ["The Great MSET9" purge](https://github.com/hacks-guide/Guide_3DS/pull/2393)
+It will get updated with the latest changes while keeping all of the other methods that got purged. The purged methods ***WILL NOT*** be updated. For updated info, go to [wiki.hacks.guide](https://wiki.hacks.guide/wiki/3DS:Alternate_Exploits).
 
 ## Running the site locally
 
