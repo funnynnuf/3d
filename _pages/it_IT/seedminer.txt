@@ -2,15 +2,5 @@
 title: "Seedminer"
 ---
 
-{% include toc title="Indice" %}
-
-{% include_relative include/seedminer-base.txt %}
-
-___
-
-### Passo successivo: BannerBomb3
-
-Una volta ottenuta la chiave di crittografia della tua console (`movable.sed`), puoi usarla in combinazione con BannerBomb3, che utilizza il tuo file `movable.sed` per sfruttare le falle nell'applicazione Impostazioni della console.
-
-Prosegui con [BannerBomb3](bannerbomb3)
-{: .notice--primary}
+Questa pagina è stata rimossa perché il metodo utilizzato è obsoleto. Utilizza un metodo più recente indicato alla pagina [Cominciamo!](get-started).
+{: .notice--warning}

@@ -1,6 +1,5 @@
-**The latest 3DS firmware is 11.17.0**. Hier ist, was du wissen solltest:
+**Die neueste 3DS Firmware ist 11.17.0**. Hier ist, was du wissen solltest:
 
-+ If your console is running *Luma 10.2.1 or higher*, it is *100% safe* to update. You can check your Luma version by holding (Select) while booting your console.
-+ If your console is on an older Luma version, you should [update Luma](checking-for-cfw) before you update your console to 11.17.0.
-+ If your console does not yet have custom firmware, **do NOT update to the latest version** unless this guide instructs you to. The methods on earlier firmwares are easier and more stable.
-+ If your unmodified console is ALREADY on 11.17.0, this guide has been updated accordingly. Both [New3DS](installing-boot9strap-(super-skaterhax)) and [Old3DS](installing-boot9strap-(mset9)) now have free software methods that (for the most part) do not require external hardware or software.
++ Falls auf deiner Konsole *Luma 10.2.1 oder höher* läuft ist das Updaten zu 100% sicher. Du kannst deine Luma Version überprüfen, indem du beim Starten deiner Konsole (Select) gedrückt hältst.
++ Falls auf deiner Konsole eine ältere Luma Version installiert ist, solltest du [Luma updaten](checking-for-cfw) bevor du deine Konsole auf 11.17.0 updatest.
++ Wenn deine Konsole noch keine Custom Firmware besitzt, kannst du sie jetzt auf allen Firmwares mit dieser Anleitung installieren.

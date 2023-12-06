@@ -56,6 +56,17 @@ Ebben a fejezetben meg fogod látogatni a browser exploit weboldalt, ami elindí
 Ha még nem történt meg, biztosítsd, hogy legyen működő Internet kapcsolata a konzolodnak.
 {: .notice--info}
 
+{% capture set_date %}
+<summary>Ha a rendszer dátumod inkorrekt, ez az exploit nem fog működni.<br>Kérjük kövesd az alábbi lépéseket a helyes rendszer dátum beállításához.</summary>
+1. Lépj be a "System Settings"-be a konzolodon
+1. Válaszd az "Other Settings"-t
+1. Navigálj ide: "Date & Time" -> "Today's date"
+1. A fel/le nyilakkal állítsd be a helyes napot, hónapot és évet
+1. Nyomj OK-t a jóváhagyáshoz
+{% endcapture %}
+<details>{{ set_date | markdownify }}</details>
+{: .notice--info}
+
 1. A HOME menüben nyomd meg a bal és jobb váll gombokat egyszerre, hogy megnyisd a kamerát
     + Ha nem tudod megnyitni a kamerát, nyisd meg az Internet Browser-t kézzel, és írd be az URL-t e helyett. (`https://zoogie.github.io/web/super/` az EUR/USA/JPN régiókhoz, `https://zoogie.github.io/web/korea` a KOR régióhoz)
 1. Nyomd meg a QR kód gombot és olvasd be a következő QR kódok egyikét, ami megfelel a konzol régiódnak, [itt](https://user-images.githubusercontent.com/28328903/226086338-585bfdac-0aac-44c0-b413-89206d2815d8.png)
@@ -74,6 +85,7 @@ Ha még nem történt meg, biztosítsd, hogy legyen működő Internet kapcsolat
     + Ha bármilyen kérdés előjön, fogadd el mind
     + Ha a konzolod lefagy egy sárga képernyőn, tartsd nyomva a POWER gombot, amíg ki nem kapcsol, és próbáld újra ezt a részt
     + Ha a konzolod lefagy egy piros képernyőn, tartsd nyomva a POWER gombot, amíg ki nem kapcsol, csináld újra a 3. lépést a II. részben, majd próbáld újra ezt a részt
+    + Ha a konzolod "Text"-et jelenít meg az alsó képernyőn, akkor Old 3DS-ed van és ez az exploit **nem fog működni az eszközödön**. Ha ez az eset, használd az [MSET9](installing-boot9strap-(mset9))-et helyette
     + Ha más hibát kapsz, próbáld meg 5x, és ha még minden nem megy [kövesd ezt a hibaelhárítási útmutatót](troubleshooting#installing-boot9strap-super-skaterhax)
 1. Ekkor a konzolodnak be kell bootolni a Homebrew Launcher-be
 1. Indítsd el a nimdsphax-et a homebrew listájáról
